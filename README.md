@@ -1,5 +1,7 @@
-pyOBD
+pyOBD-py3
 =====
+
+## WIP Python 3 port of pyOBD
 
 Fork from http://www.obdtester.com/pyobd, a OBD-II compliant car diagnostic tool.
 
